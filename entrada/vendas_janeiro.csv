@@ -1,0 +1,16 @@
+data,produto,categoria,quantidade,preco_unitario,cliente,vendedor
+2026-01-03,Camiseta Básica,Vestuário,2,49.90,Ana Souza,Carlos
+2026-01-03,Camiseta Básica,Vestuário,2,49.90,Ana Souza,Carlos
+05/01/2026,caneca de porcelana,Utilidades,3,29.9,Bruno Lima,Marina
+2026-01-07,Boné Trucker,Vestuário,,59.90,Carla Dias,Carlos
+2026-01-08,CAMISETA BÁSICA,Vestuário,1,49.90,,Marina
+2026-01-10,Caderno A5,Papelaria,5,"R$ 19,90",Diego Alves,Carlos
+2026-01-12,Mochila Casual,Acessórios,1,189.90,Ana Souza,
+2026-01-15,Caneca de Porcelana,Utilidades,2,29.90,Bruno Lima,Marina
+15/01/2026,Boné Trucker ,Vestuário,2,59.9,Carla Dias,Carlos
+2026-01-18,Garrafa Térmica,Utilidades,4,89.90,Eduardo Melo,Marina
+2026-01-20,Caderno A5,Papelaria,,19.90,Diego Alves,Carlos
+2026-01-22,Mochila Casual,Acessórios,1,"R$ 189,90",Fernanda Rocha,Marina
+2026-01-25,Camiseta Estampada,Vestuário,3,69.90,Gustavo Nunes,Carlos
+2026-01-28,caneca de porcelana,Utilidades,1,29.90,Bruno Lima,
+2026-01-30,Garrafa Térmica,Utilidades,2,89.9,Eduardo Melo,Marina

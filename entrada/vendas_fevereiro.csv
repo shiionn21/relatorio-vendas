@@ -1,0 +1,16 @@
+data,produto,categoria,quantidade,preco_unitario,cliente,vendedor
+2026-02-02,Mochila Casual,Acessórios,2,189.90,Helena Castro,Carlos
+03/02/2026,Camiseta Básica,vestuário,4,49.90,Igor Pinto,Marina
+2026-02-05,Garrafa Térmica,Utilidades,1,89.90,Ana Souza,Carlos
+2026-02-05,Garrafa Térmica,Utilidades,1,89.90,Ana Souza,Carlos
+2026-02-08,Caneca de Porcelana,Utilidades,6,29.90,Bruno Lima,
+2026-02-10,Boné Trucker,Vestuário,,59.90,Carla Dias,Marina
+2026-02-12,Caderno A5,Papelaria,10,"R$ 19,90",Diego Alves,Carlos
+2026-02-14,Camiseta Estampada,Vestuário,2,69.9,Helena Castro,Marina
+14/02/2026,mochila casual,Acessórios,1,189.90,Igor Pinto,Carlos
+2026-02-17,Garrafa Térmica ,Utilidades,3,89.90,,Marina
+2026-02-19,Caneca de Porcelana,Utilidades,2,"R$ 29,90",Bruno Lima,Carlos
+2026-02-21,Camiseta Básica,Vestuário,5,49.9,Igor Pinto,Marina
+2026-02-24,Boné Trucker,Vestuário,1,59.90,Carla Dias,Carlos
+2026-02-26,Caderno A5,Papelaria,,19.90,Diego Alves,
+2026-02-28,Mochila Casual,Acessórios,2,189.9,Helena Castro,Marina
